@@ -16,9 +16,6 @@ return new class extends Migration
             $table->string('national_code', 10)->unique();
             $table->string('phone_number', 15)->unique();
             $table->timestamps();
-
-            $table->unique('national_code');
-            $table->unique('phone_number');
         });
 
 
