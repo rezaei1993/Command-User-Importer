@@ -13,7 +13,7 @@ This project is aimed at providing a command-line tool to import user data from 
 
 2. Navigate to the project directory:
    ```
-   cd your-project
+   cd Command-User-Importer
    ```
 
 3. Install dependencies:
